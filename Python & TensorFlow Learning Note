@@ -1,0 +1,2 @@
+Python & TensorFlow Learning Note
+ 1. dot和matmul的区别是，当a或b其中一个是标量的时候，只能用np.dot，用matmul会报错。
